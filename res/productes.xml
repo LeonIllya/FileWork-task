@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<purchases>
+    <product id ="5839">
+        <name>Kirill</name>
+        <price currency="USD">100</price>
+        <quantity>10</quantity>
+    </product>
+
+    <product id ="5739">
+        <name>Danil</name>
+        <price currency="USD">650</price>
+        <quantity>130</quantity>
+</product>
+</purchases>
